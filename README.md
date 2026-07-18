@@ -63,7 +63,7 @@ When comparing pages within the same ranking position, some content types consis
 SEO-Data-Analysis/
 │
 ├── notebooks/
-│   └── seo_data_analysis.ipynb
+│   └── seo_analysis.ipynb
 │
 ├── data/
 │

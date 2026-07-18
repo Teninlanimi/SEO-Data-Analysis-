@@ -1,5 +1,4 @@
 # SEO-Data-Analysis with Python
-# SEO Data Analysis with Python
 
 ## Project Overview
 

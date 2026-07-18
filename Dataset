@@ -1,0 +1,8 @@
+The dataset used in this project was provided as part of my Machine Learning internship at 
+FlyRank for educational and analytical purposes.
+
+It contains anonymized SEO performance metrics for webpages, including search volume, impressions, 
+click-through rate (CTR), average search position, content type, and trend-related features.
+
+The analysis presented in this repository is my first week project and was conducted to practice exploratory
+data analysis (EDA), statistical analysis, and data visualization using Python.

@@ -84,7 +84,7 @@ SEO-Data-Analysis/
 
 **Teninlanimi Faith Olajide**
 
-Aspiring Machine Learning Engineer | Data Science Enthusiast | AI Learner
+Machine Learning Engineer | Data Science Enthusiast | AI Learner
 
 Thank you for visiting this project. Feedback and suggestions are always welcome.
 
